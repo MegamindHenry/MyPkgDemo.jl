@@ -1,0 +1,13 @@
+name = "MyPkgDemo"
+uuid = "b7ae1bc1-5637-4fa1-b889-b3f7f02142f0"
+authors = ["MegamindHenry"]
+version = "0.1.0"
+
+[compat]
+julia = "1.5"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
