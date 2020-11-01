@@ -1,7 +1,7 @@
 name = "MyPkgDemo"
 uuid = "b7ae1bc1-5637-4fa1-b889-b3f7f02142f0"
 authors = ["MegamindHenry"]
-version = "0.1.0"
+version = "0.1.1"
 
 [deps]
 Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
